@@ -12,3 +12,8 @@ The second prject focus on web-api.
 4. enter the title of the task, date and description. save the changes by clicking save
 5. click on the table view list to view to expand the view. 
 
+unit-test
+1. To unit-test the project press command+u
+
+Backend
+1. will resolve the error for parsing json. didn't have a lot of time
